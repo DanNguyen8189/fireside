@@ -1,6 +1,8 @@
 # fireside
 Django chat app!
 
+Note* environment variables are in .env file
+
 To run the app, run 
 python manage.py runserver
 
